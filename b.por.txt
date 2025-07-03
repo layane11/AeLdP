@@ -3,11 +3,11 @@ programa {
 
     cadeia nome,sobrenome,trocar
 
-    escreva("insira seu pré-nome: ")
+    escreva("insira o seu pré-nome: ")
     leia(nome)
 
 
-    escreva("insira seu sobrenome: ")
+    escreva("insira o seu sobrenome: ")
     leia(sobrenome)
 
 
